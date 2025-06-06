@@ -31,4 +31,4 @@ Motivated Full Stack Developer with hands-on experience in designing and develop
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/prakhartripathi1" target="_blank">Prakhar Tripathi</a> Email: tripathiprakhar175@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/prakhartripathi1" >Prakhar Tripathi</a> Email: tripathiprakhar175@gmail.com</p>
